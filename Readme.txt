@@ -12,9 +12,9 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/piyushkumar2802/Bhopal-Health-Services.git
+git remote add origin https://github.com/Sureshkumaryadav13/Bhopla-Health-Services.git
 git push -u origin main
 
-git remote add origin https://github.com/piyushkumar2802/Bhopal-Health-Services.git
-git branch -M main
-git push -u origin main
+git remote add origin https://github.com/Sureshkumaryadav13/Bhopla-Health-Services.git
+git branch -u master
+git push -u origin master
